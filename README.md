@@ -12,5 +12,7 @@ I will be adding more elements with time and anything else I might have use for 
 
 You need to have SFML installed to use these elements.
 Installation guide can be found here: https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+
 SFML Downloads can be found here: https://www.sfml-dev.org/download.php
+
 I used Visual Studio Community 2017 with SFML 2.5.1 when I made this.
