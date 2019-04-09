@@ -9,8 +9,8 @@ int main()
 	// Create window
 	sf::RenderWindow window;
 	window.create(sf::VideoMode(600, 800), "Test", sf::Style::Titlebar | sf::Style::Close); // Unresizable window with titlebar
-	/// window.setFramerateLimit(60);
-	window.setVerticalSyncEnabled(true);
+	window.setFramerateLimit(60);
+	/// window.setVerticalSyncEnabled(true); // Switch animation might not work if this is used
 
 	// Create elements
 	Button btn1;
