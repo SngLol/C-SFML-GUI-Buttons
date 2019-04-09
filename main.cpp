@@ -1,6 +1,5 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include "sfml_icon.h"
 #include "buttons.h"
 
 using namespace std;
