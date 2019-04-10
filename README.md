@@ -20,3 +20,5 @@ Installation guide can be found here: https://www.sfml-dev.org/tutorials/2.5/sta
 SFML Downloads can be found here: https://www.sfml-dev.org/download.php
 
 I used Visual Studio Community 2017 with SFML 2.5.1 when I made this.
+
+For the updated project (for now), visit https://github.com/SngLol/GUIProjectSFML
